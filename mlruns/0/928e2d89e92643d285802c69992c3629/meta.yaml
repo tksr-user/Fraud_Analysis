@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/aman1/Fraud_Analysis/mlruns/0/928e2d89e92643d285802c69992c3629/artifacts
+end_time: 1752732046354
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 928e2d89e92643d285802c69992c3629
+run_name: clean-zebra-939
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752732046293
+status: 3
+tags: []
+user_id: aman1
