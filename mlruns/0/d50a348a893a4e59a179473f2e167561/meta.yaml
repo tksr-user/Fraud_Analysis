@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/aman1/Fraud_Analysis/mlruns/0/d50a348a893a4e59a179473f2e167561/artifacts
+end_time: 1752736007272
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d50a348a893a4e59a179473f2e167561
+run_name: handsome-frog-977
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752736007199
+status: 3
+tags: []
+user_id: aman1
