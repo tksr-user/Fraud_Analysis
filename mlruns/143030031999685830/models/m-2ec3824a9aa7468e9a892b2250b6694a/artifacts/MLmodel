@@ -1,0 +1,22 @@
+artifact_path: file:///C:/Users/aman1/Fraud_Analysis/mlruns/143030031999685830/models/m-2ec3824a9aa7468e9a892b2250b6694a/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.11.9
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.6.1
+mlflow_version: 3.1.1
+model_id: m-2ec3824a9aa7468e9a892b2250b6694a
+model_size_bytes: 1250
+model_uuid: m-2ec3824a9aa7468e9a892b2250b6694a
+prompts: null
+run_id: fde09db56b2640799e874f1076ef5090
+utc_time_created: '2025-07-23 11:52:44.705483'

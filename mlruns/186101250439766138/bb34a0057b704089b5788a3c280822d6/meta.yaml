@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/aman1/Fraud_Analysis/mlruns/186101250439766138/bb34a0057b704089b5788a3c280822d6/artifacts
+end_time: 1753272321209
+entry_point_name: ''
+experiment_id: '186101250439766138'
+lifecycle_stage: active
+run_id: bb34a0057b704089b5788a3c280822d6
+run_name: calm-ray-990
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753272321140
+status: 3
+tags: []
+user_id: aman1

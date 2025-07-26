@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/aman1/Fraud_Analysis/mlruns/646892384100715756/d03e7e37023a49a3b062e2e8603dfeef/artifacts
+end_time: 1753252565547
+entry_point_name: ''
+experiment_id: '646892384100715756'
+lifecycle_stage: active
+run_id: d03e7e37023a49a3b062e2e8603dfeef
+run_name: SVC_half_features
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753252561382
+status: 3
+tags: []
+user_id: aman1

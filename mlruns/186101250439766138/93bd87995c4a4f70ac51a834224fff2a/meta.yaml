@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/aman1/Fraud_Analysis/mlruns/186101250439766138/93bd87995c4a4f70ac51a834224fff2a/artifacts
+end_time: 1753249721801
+entry_point_name: ''
+experiment_id: '186101250439766138'
+lifecycle_stage: active
+run_id: 93bd87995c4a4f70ac51a834224fff2a
+run_name: RF Experiment
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753249636688
+status: 3
+tags: []
+user_id: aman1

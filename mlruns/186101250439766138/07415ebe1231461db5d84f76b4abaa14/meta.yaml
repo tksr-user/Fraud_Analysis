@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/aman1/Fraud_Analysis/mlruns/186101250439766138/07415ebe1231461db5d84f76b4abaa14/artifacts
+end_time: 1753272978236
+entry_point_name: ''
+experiment_id: '186101250439766138'
+lifecycle_stage: active
+run_id: 07415ebe1231461db5d84f76b4abaa14
+run_name: dapper-cow-98
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753272978063
+status: 3
+tags: []
+user_id: aman1

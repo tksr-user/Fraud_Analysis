@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/aman1/Fraud_Analysis/mlruns/0/4ba6c6316af9462eba56825017b66ad3/artifacts
+end_time: 1753255429656
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4ba6c6316af9462eba56825017b66ad3
+run_name: legendary-rook-722
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753255429529
+status: 3
+tags: []
+user_id: aman1

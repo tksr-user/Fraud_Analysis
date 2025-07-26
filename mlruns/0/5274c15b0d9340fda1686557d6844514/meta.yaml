@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/aman1/Fraud_Analysis/mlruns/0/5274c15b0d9340fda1686557d6844514/artifacts
+end_time: 1753160860155
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5274c15b0d9340fda1686557d6844514
+run_name: bald-trout-558
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753160860010
+status: 3
+tags: []
+user_id: aman1

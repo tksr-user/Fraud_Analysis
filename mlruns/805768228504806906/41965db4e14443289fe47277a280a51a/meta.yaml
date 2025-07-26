@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/aman1/Fraud_Analysis/mlruns/805768228504806906/41965db4e14443289fe47277a280a51a/artifacts
+end_time: 1753272189825
+entry_point_name: ''
+experiment_id: '805768228504806906'
+lifecycle_stage: active
+run_id: 41965db4e14443289fe47277a280a51a
+run_name: LogisticRegression_half_features
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753272185707
+status: 3
+tags: []
+user_id: aman1

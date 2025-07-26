@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/aman1/Fraud_Analysis/mlruns/0/28b8140a64c34a688573a8e5ea86dda3/artifacts
+end_time: 1753173120397
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 28b8140a64c34a688573a8e5ea86dda3
+run_name: unruly-skink-592
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753173120323
+status: 3
+tags: []
+user_id: aman1

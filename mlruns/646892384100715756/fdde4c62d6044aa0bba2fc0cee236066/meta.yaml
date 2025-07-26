@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/aman1/Fraud_Analysis/mlruns/646892384100715756/fdde4c62d6044aa0bba2fc0cee236066/artifacts
+end_time: 1753252028777
+entry_point_name: ''
+experiment_id: '646892384100715756'
+lifecycle_stage: active
+run_id: fdde4c62d6044aa0bba2fc0cee236066
+run_name: RandomForest_all_features
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753252025329
+status: 3
+tags: []
+user_id: aman1

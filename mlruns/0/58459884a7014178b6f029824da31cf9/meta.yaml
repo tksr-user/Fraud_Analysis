@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/aman1/Fraud_Analysis/mlruns/0/58459884a7014178b6f029824da31cf9/artifacts
+end_time: 1752735849706
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 58459884a7014178b6f029824da31cf9
+run_name: classy-panda-6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752735849653
+status: 3
+tags: []
+user_id: aman1

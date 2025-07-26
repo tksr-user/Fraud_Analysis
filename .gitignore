@@ -1,0 +1,6 @@
+*.csv
+*.parquet
+*.csv
+*.parquet
+*.data
+*agent/.gpt4all/

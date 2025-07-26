@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/aman1/Fraud_Analysis/mlruns/288721850100320336/models/m-7fcf93273f55457aa03b578183c915fc/artifacts
+creation_timestamp: 1753252171865
+experiment_id: '288721850100320336'
+last_updated_timestamp: 1753252175149
+model_id: m-7fcf93273f55457aa03b578183c915fc
+model_type: null
+name: model
+source_run_id: 9b4e399f377a4ce9ab590906374d5a13
+status: 2
+status_message: null

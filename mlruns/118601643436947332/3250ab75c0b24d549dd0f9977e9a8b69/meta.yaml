@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/aman1/Fraud_Analysis/mlruns/118601643436947332/3250ab75c0b24d549dd0f9977e9a8b69/artifacts
+end_time: 1753167473929
+entry_point_name: ''
+experiment_id: '118601643436947332'
+lifecycle_stage: active
+run_id: 3250ab75c0b24d549dd0f9977e9a8b69
+run_name: RandomForest_half_features
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753167470529
+status: 3
+tags: []
+user_id: aman1

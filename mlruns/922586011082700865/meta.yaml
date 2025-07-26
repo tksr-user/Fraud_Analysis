@@ -1,0 +1,6 @@
+artifact_location: file:///C:/Users/aman1/Fraud_Analysis/mlruns/922586011082700865
+creation_time: 1753347819906
+experiment_id: '922586011082700865'
+last_update_time: 1753347819906
+lifecycle_stage: active
+name: optuna_model_selection

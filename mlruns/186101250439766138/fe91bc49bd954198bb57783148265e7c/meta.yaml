@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/aman1/Fraud_Analysis/mlruns/186101250439766138/fe91bc49bd954198bb57783148265e7c/artifacts
+end_time: 1753272853895
+entry_point_name: ''
+experiment_id: '186101250439766138'
+lifecycle_stage: active
+run_id: fe91bc49bd954198bb57783148265e7c
+run_name: learned-pig-792
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753272853829
+status: 3
+tags: []
+user_id: aman1

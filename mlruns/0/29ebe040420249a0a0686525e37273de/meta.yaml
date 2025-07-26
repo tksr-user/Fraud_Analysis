@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/aman1/Fraud_Analysis/mlruns/0/29ebe040420249a0a0686525e37273de/artifacts
+end_time: 1753161573697
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 29ebe040420249a0a0686525e37273de
+run_name: intelligent-hare-21
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753161573638
+status: 3
+tags: []
+user_id: aman1

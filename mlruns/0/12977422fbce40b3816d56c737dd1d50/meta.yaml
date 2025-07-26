@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/aman1/Fraud_Analysis/mlruns/0/12977422fbce40b3816d56c737dd1d50/artifacts
+end_time: 1753167186276
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 12977422fbce40b3816d56c737dd1d50
+run_name: magnificent-ape-829
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753167186198
+status: 3
+tags: []
+user_id: aman1

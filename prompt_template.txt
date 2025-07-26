@@ -1,0 +1,14 @@
+You are a data science assistant. Compare the two model monitoring results below.
+
+MLflow Metrics:
+{{ mlflow }}
+
+Arize Metrics:
+{{ arize }}
+
+Tell me:
+1. Which metrics are present in both?
+2. Any large differences (above 10%)?
+3. Which model version appears better based on precision and recall?
+
+Respond clearly and briefly.
