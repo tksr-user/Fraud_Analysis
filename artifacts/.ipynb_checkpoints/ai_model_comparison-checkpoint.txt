@@ -1,0 +1,39 @@
+ The ranking is based on accuracy, precision, and recall.
+
+| Rank | Model Name/Run ID | Accuracy | Precision | Recall |
+| --- | --- | --- | --- | --- |
+| 1   | Model 2 (7de3ad4f2d1c4d0b80df5b91173a6a30) | 0.9990    | 1.0000     | 0.5000  |
+| 2   | Model 8 (017ccc7d7d8042e5865cb80aa828c875) | 0.9990    | 0.8000     | 0.6667  |
+| 3   | Model 4 (a489cda6dc2648639bd5ad64dd5a8b11) | 0.9990    | 0.6667     | 0.8000  |
+| 4   | Model 2 (84e842dd0b6b44c4bdbc75ca06b88ddf) *Target* | 0.9980    | 0.0000     | 0.0000  |
+| 5   | Model 7 (ed8b373149b44403be7908c1c913e7c6) | 0.9987    | 0.6667     | 0.6667  |
+| 6   | Model 9 (06029c19594442dca1b9342f8fb978fb) | 0.9980    | 0.5000     | 0.3333  |
+| 7   | Model 5 (21c751a04be44c8dbbde2810799e0ff5) | 0.9987    | 0.6667     | 0.4000  |
+| 8   | Model 6 (f3b7eb5896f74fa288a45dc68cb1a93c) | 0.9983    | 0.5000     | 0.4000  |
+| 9   | Model 3 (7dd019f06a3a4606ab55a5a588fdb0d0) | 0.9980    | 0.5000     | 0.1667  |
+| 10  | Model 4 (7de3ad4f2d1c4d0b80df5b91173a6a30) *RandomForest* | 0.9990    | 1.0000     | 0.5000  |
+
+Ranking Explanation:
+
+The ranking is based on the model's performance compared to the target model (Run ID: 84e842dd0b6b44c4bdbc75ca06b88ddf). The models are ranked from best to worst.
+
+1. Model 2 and Model 8 both have an accuracy of 0.9990, which is better than the target model's accuracy of 0.9980.
+   - However, since they also share a lower precision (Model 2: 1.0000; Model 8: 0.8000) compared to the target model (0.0000), their ranking depends on this metric.
+
+   In terms of overall performance, both models are tied for first place due to their high accuracy and better or comparable precision values.
+   
+2. Models 4 and 7 have an accuracy of 0.9990 but a lower recall value compared to the target model (Model 4: 0.8000; Model 7: 0.6667).
+   - Although they share similar performance in terms of accuracy, their ranking is influenced by their precision values.
+
+3. Models 5 and 6 have an accuracy of 0.9987 but a lower recall value compared to the target model (Model 5: 0.4000; Model 6: 0.4000).
+   - Both models are tied for third place due to their high accuracy, which is better than the target model's.
+
+4. Models 3 and 9 have an accuracy of 0.9980 but a lower recall value compared to the target model (Model 3: 0.1667; Model 9: 0.3333).
+   - Although they share similar performance in terms of accuracy, their ranking is influenced by their precision values.
+
+5. Models 4 and 6 have an accuracy of 0.9983 but a lower recall value compared to the target model (Model 4: 0.8000; Model 6: 0.4000).
+   - Although they share similar performance in terms of accuracy, their ranking is influenced by their precision values.
+
+Ranking Conclusion:
+
+Based on the provided metrics and comparison with the target model, the

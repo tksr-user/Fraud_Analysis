@@ -1,0 +1,52 @@
+ 
+
+## Step 1: Calculate the difference in accuracy between each model and the target model.
+- Model 2 (RandomForest): Accuracy = 0.9993 - 0.9980 = 0.0013
+- Model 3 (LogisticRegression): Accuracy = 0.9980 - 0.9980 = 0.0000
+- Model 4 (SVC): Accuracy = 0.9990 - 0.9980 = 0.0010
+- Model 5 (RandomForest): Accuracy = 0.9987 - 0.9980 = 0.0007
+- Model 6 (LogisticRegression): Accuracy = 0.9983 - 0.9980 = 0.0003
+- Model 7 (SVC): Accuracy = 0.9987 - 0.9980 = 0.0007
+- Model 8 (RandomForest): Accuracy = 0.9987 - 0.9980 = 0.0007
+- Model 9 (LogisticRegression): Accuracy = 0.9980 - 0.9980 = 0.0000
+
+## Step 2: Calculate the difference in precision between each model and the target model.
+- Model 2 (RandomForest): Precision = 1.0000 - 0.0000 = 1.0000
+- Model 3 (LogisticRegression): Precision = 0.5000 - 0.0000 = 0.5000
+- Model 4 (SVC): Precision = 0.6667 - 0.0000 = 0.6667
+- Model 5 (RandomForest): Precision = 0.6667 - 0.0000 = 0.6667
+- Model 6 (LogisticRegression): Precision = 0.5000 - 0.0000 = 0.5000
+- Model 7 (SVC): Precision = 0.6667 - 0.0000 = 0.6667
+- Model 8 (RandomForest): Precision = 0.7500 - 0.0000 = 0.7500
+- Model 9 (LogisticRegression): Precision = 0.5000 - 0.0000 = 0.5000
+
+## Step 3: Calculate the difference in recall between each model and the target model.
+- Model 2 (RandomForest): Recall = 0.6667 - 0.0000 = 0.6667
+- Model 3 (LogisticRegression): Recall = 0.1667 - 0.0000 = 0.1667
+- Model 4 (SVC): Recall = 0.8000 - 0.0000 = 0.8000
+- Model 5 (RandomForest): Recall = 0.4000 - 0.0000 = 0.4000
+- Model 6 (LogisticRegression): Recall = 0.4000 - 0.0000 = 0.4000
+- Model 7 (SVC): Recall = 0.6667 - 0.0000 = 0.6667
+- Model 8 (RandomForest): Recall = 0.5000 - 0.0000 = 0.5000
+- Model 9 (LogisticRegression): Recall = 0.3333 - 0.0000 = 0.3333
+
+## Step 4: Rank all models from best to worst based on the differences in accuracy, precision, and recall.
+Ranking by Accuracy:
+1. Model 2 (RandomForest) with a difference of 0.0013
+2. Models 5 (RandomForest), 7 (SVC), and 8 (RandomForest) tied with a difference of 0.0007
+3. Model 4 (SVC) with a difference of 0.0010
+
+Ranking by Precision:
+1. Model 9 (LogisticRegression) is not the best, but it's actually worse than others in this category.
+2. Models 5 (RandomForest), 6 (LogisticRegression), and 7 (SVC) tied with a difference of 0.6667
+3. Model 4 (SVC)
+
+Ranking by Recall:
+1. Model 8 (RandomForest)
+2. Model 4 (SVC)
+3. Models 5 (RandomForest), 6 (LogisticRegression), and 9 (LogisticRegression) tied
+
+## Step 5: Determine the overall ranking of models from best to worst.
+Based on all three metrics, we can see that:
+- In terms of accuracy, Model 2 (RandomForest) is slightly better than Models 7 (SVC) and 8 (RandomForest).
+- For precision, no model stands
