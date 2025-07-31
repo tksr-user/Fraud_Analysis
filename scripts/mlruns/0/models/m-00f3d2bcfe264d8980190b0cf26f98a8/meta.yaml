@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/aman1/Fraud_Analysis/scripts/mlruns/0/models/m-00f3d2bcfe264d8980190b0cf26f98a8/artifacts
+creation_timestamp: 1753781820138
+experiment_id: '0'
+last_updated_timestamp: 1753781823877
+model_id: m-00f3d2bcfe264d8980190b0cf26f98a8
+model_type: null
+name: RandomForest_all_features
+source_run_id: 5de07499bee2484398ce7c36914ccee1
+status: 2
+status_message: null

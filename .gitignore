@@ -4,3 +4,4 @@
 *.parquet
 *.data
 *agent/.gpt4all/
+*scripts/datas

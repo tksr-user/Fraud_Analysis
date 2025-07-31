@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/aman1/Fraud_Analysis/scripts/mlruns/0/models/m-455569b0faf34e1dbc207cb71e4ec253/artifacts
+creation_timestamp: 1753781824930
+experiment_id: '0'
+last_updated_timestamp: 1753781828328
+model_id: m-455569b0faf34e1dbc207cb71e4ec253
+model_type: null
+name: SVC_all_features
+source_run_id: 489d3c14befe42dfb5ee5709fee21497
+status: 2
+status_message: null

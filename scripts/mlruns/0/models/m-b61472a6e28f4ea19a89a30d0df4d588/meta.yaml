@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/aman1/Fraud_Analysis/scripts/mlruns/0/models/m-b61472a6e28f4ea19a89a30d0df4d588/artifacts
+creation_timestamp: 1753781803183
+experiment_id: '0'
+last_updated_timestamp: 1753781811491
+model_id: m-b61472a6e28f4ea19a89a30d0df4d588
+model_type: null
+name: LogisticRegression_all_features
+source_run_id: 978fdb56071e49a0892735b7bbb07d5b
+status: 2
+status_message: null
